@@ -1,5 +1,5 @@
 <script setup>
-import BlocIMC from './components/blocIMC.vue'
+import BlocIMC from './components/blocIMC.vue';
 </script>
 
 <template>
